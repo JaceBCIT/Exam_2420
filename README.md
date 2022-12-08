@@ -30,6 +30,9 @@
 json-pretty is in -o option  
 ![part3 json2](./Images/part3_json_in_o.PNG)  
 
+* Command
+![part3](./Images/part3_command.PNG) 
+
 ## Part 4
 ```
 #!/bin/bash
